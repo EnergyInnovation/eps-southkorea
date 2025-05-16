@@ -69745,9 +69745,10 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 1,249,248,235,0,0,0,0,0,128,0,-1--1--1,,1|(0,0)|
 ///---\\\
 :L<%^E!@
+1:NoSettings.vdfx
 1:MostRecentRun.vdfx
 4:Time
-5:Output Total CO2e Emissions
+5:BIFUbC BAU Industrial Fuel Use before CCS[Industry Category,Industrial Fuel]
 6:Acute bronchitis
 6:age 16to19
 6:age 20to24
@@ -69782,7 +69783,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:biomass dispatch
 6:biomass es
 6:biomass gasification
-6:biomass if
 6:biomass w ccs dispatch
 6:biomass w CCS es
 6:biomass w ccs power plants
@@ -70506,7 +70506,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:elec use EVs for grid balancing X
 6:electricity
 6:electricity bf
-6:electricity if
 6:electricity sector
 6:electricity suppliers
 6:electricity tf
@@ -70593,7 +70592,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:hard coal bf
 6:hard coal dispatch
 6:hard coal es
-6:hard coal if
 6:hard coal w ccs dispatch
 6:hard coal w CCS es
 6:hard coal w ccs power plants
@@ -70604,12 +70602,10 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:heat convert heat to CHP X
 6:heat fuel type shifting
 6:heat fuel type shifting X
-6:heat if
 6:heating
 6:heavy or residual fuel oil
 6:heavy or residual fuel oil bf
 6:heavy or residual fuel oil es
-6:heavy or residual fuel oil if
 6:heavy or residual fuel oil tf
 6:hispanic
 6:Hour0
@@ -70652,7 +70648,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:hydrogen combustion turbine dispatch
 6:hydrogen combustion turbine es
 6:hydrogen combustion turbine power plants
-6:hydrogen if
 6:hydrogen tf
 6:hydrogen vehicle
 6:imports
@@ -71882,7 +71877,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:Lower respiratory symptoms
 6:LPG propane or butane
 6:LPG propane or butane bf
-6:LPG propane or butane if
 6:LPG propane or butane tf
 6:LPG vehicle
 6:LULUCF sector
@@ -71905,7 +71899,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:natural gas combined cycle w ccs dispatch
 6:natural gas combined cycle w CCS es
 6:natural gas combined cycle w ccs power plants
-6:natural gas if
 6:natural gas peaker dispatch
 6:natural gas peaker es
 6:natural gas peaker power plants
@@ -71956,7 +71949,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:oil and gas extraction 06
 6:one hundred years
 6:onshore wind es
-6:onshore wind power plants
 6:other component
 6:other energy suppliers
 6:other machinery 28
@@ -71992,7 +71984,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:peak winter day
 6:petroleum diesel
 6:petroleum diesel bf
-6:petroleum diesel if
 6:petroleum diesel tf
 6:petroleum dispatch
 6:petroleum es
@@ -72239,10 +72230,8 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:ships
 6:small modular reactor dispatch
 6:small modular reactor es
-6:small modular reactor power plants
 6:solar
 6:solar PV es
-6:solar PV power plants
 6:solar thermal es
 6:SOx
 6:standard compliant
@@ -72753,8 +72742,8 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:wood products 16
 6:Work loss days
 6:Year2021
-9:MostRecentRun
-19:70,0
+9:NoSettings
+19:70,13
 24:2021
 25:2050
 26:2050

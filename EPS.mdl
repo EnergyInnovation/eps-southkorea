@@ -69747,7 +69747,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 :L<%^E!@
 1:NoSettings.vdfx
 4:Time
-5:Transportation Sector Fuel Used[Vehicle Type,Cargo Type,Vehicle Technology,Transportation Fuel]
+5:BIFUbC BAU Industrial Fuel Use before CCS[Industry Category,Industrial Fuel]
 6:Acute bronchitis
 6:age 16to19
 6:age 20to24
@@ -70151,8 +70151,8 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:cross toggle whether policies affect energy prices X solar
 6:cross toggle whether policies affect energy prices X wind
 6:crude oil
+6:crude oil dispatch
 6:crude oil es
-6:crude oil if
 6:deficit spending
 6:diesel vehicle
 6:distributed solar subsidy
@@ -70504,6 +70504,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:elec use EVs for grid balancing X
 6:electricity
 6:electricity bf
+6:electricity if
 6:electricity sector
 6:electricity suppliers
 6:electricity tf
@@ -70593,7 +70594,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:hard coal w ccs dispatch
 6:hard coal w CCS es
 6:hard coal w ccs power plants
-6:HDVs
 6:heat
 6:heat bf
 6:heat convert heat to CHP
@@ -71864,6 +71864,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:land forest set asides X
 6:land peatland restoration
 6:land peatland restoration X
+6:LDVs
 6:lighting
 6:lignite
 6:lignite dispatch
@@ -71939,6 +71940,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:nonunion
 6:NOx
 6:nuclear
+6:nuclear dispatch
 6:nuclear es
 6:OC
 6:offshore wind es
@@ -72210,6 +72212,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:RnD transportation fuel use reduction X plugin hybrid vehicle
 6:road vehicles 29
 6:rubber and plastic products 22
+6:rural residential
 6:Schedule1
 6:Schedule2
 6:Schedule3
@@ -72514,6 +72517,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:twenty years
 6:union
 6:Upper respiratory symptoms
+6:urban residential
 6:Vintage1891
 6:Vintage1892
 6:Vintage1893
@@ -72734,8 +72738,87 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:wood products 16
 6:Work loss days
 6:Year2021
+6:Year2022
+6:Year2023
+6:Year2024
+6:Year2025
+6:Year2026
+6:Year2027
+6:Year2028
+6:Year2029
+6:Year2030
+6:Year2031
+6:Year2032
+6:Year2033
+6:Year2034
+6:Year2035
+6:Year2036
+6:Year2037
+6:Year2038
+6:Year2039
+6:Year2040
+6:Year2041
+6:Year2042
+6:Year2043
+6:Year2044
+6:Year2045
+6:Year2046
+6:Year2047
+6:Year2048
+6:Year2049
+6:Year2050
+6:Year2051
+6:Year2052
+6:Year2053
+6:Year2054
+6:Year2055
+6:Year2056
+6:Year2057
+6:Year2058
+6:Year2059
+6:Year2060
+6:Year2061
+6:Year2062
+6:Year2063
+6:Year2064
+6:Year2065
+6:Year2066
+6:Year2067
+6:Year2068
+6:Year2069
+6:Year2070
+6:Year2071
+6:Year2072
+6:Year2073
+6:Year2074
+6:Year2075
+6:Year2076
+6:Year2077
+6:Year2078
+6:Year2079
+6:Year2080
+6:Year2081
+6:Year2082
+6:Year2083
+6:Year2084
+6:Year2085
+6:Year2086
+6:Year2087
+6:Year2088
+6:Year2089
+6:Year2090
+6:Year2091
+6:Year2092
+6:Year2093
+6:Year2094
+6:Year2095
+6:Year2096
+6:Year2097
+6:Year2098
+6:Year2099
+6:Year2100
 9:NoSettings
-19:58,4
+19:70,13
 24:2021
 25:2050
 26:2050

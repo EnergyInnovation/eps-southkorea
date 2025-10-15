@@ -1,10 +1,10 @@
-Units: dimensionless,transportation sector,electricity sector,residential buildings sector,commercial buildings sector,industry sector,district heat and hydrogen sector,LULUCF sector,geoengineering sector
-Winter,0.74,0.74,0.74,0.74,0.74,0.74,0.74,0.74
-Spring,0.72,0.72,0.72,0.72,0.72,0.72,0.72,0.72
-Summer,0.71,0.71,0.71,0.71,0.71,0.71,0.71,0.71
-Fall,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67
-Summer Peak,0.71,0.71,0.71,0.71,0.71,0.71,0.71,0.71
-Winter Peak,0.74,0.74,0.74,0.74,0.74,0.74,0.74,0.74
+﻿Units: dimensionless,transportation sector,electricity sector,residential buildings sector,commercial buildings sector,industry sector,district heat and hydrogen sector,LULUCF sector,geoengineering sector
+Winter,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Spring,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Summer,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Fall,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Summer Peak,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Winter Peak,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
 ,,,,,,,,
 ,,,,,,,,
 ,,,,s,,,,

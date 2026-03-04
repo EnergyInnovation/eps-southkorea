@@ -1,9 +1,9 @@
-Electricity Source,Max Potential Capacity (MW)
+﻿Electricity Source,Max Potential Capacity (MW)
 hard coal,9000000000000
 natural gas steam turbine,9000000000000
 natural gas combined cycle,9000000000000
 nuclear,9000000000000
-hydro,12000
+hydro,0
 onshore wind,352000
 solar PV,2409000
 solar thermal,10000

@@ -2,8 +2,8 @@ BAU Generation Capacity Lifetime (years),
 hard coal,30
 natural gas steam turbine,30
 natural gas combined cycle,30
-nuclear,30
-hydro,30
+nuclear,60
+hydro,999
 onshore wind,30
 solar pv,30
 solar thermal,30

@@ -1,3 +1,5 @@
+> **SUPERSEDED (2026-11-19, Robbie): do not execute.** Replaced by the KEEI 2025 alignment staged on `develop_4.0.7`. BPCiObIC now follows KEEI 2025 output and value added (not the BIFUbC energy index). BPE process CO2 for cement, steel and chemicals follows KEEI physical production (clinker, BOF steel, basic petrochemicals). The PERAC cement multiplier is relinked to BPE. BGDP follows KEEI GDP plus the semiconductor mega-cluster. See `handoffs/keei2025-alignment/flow-logic-2026-11-19.md`.
+
 # PLAN (DRAFT FOR STAFF REVIEW): tie SK BPE, PERAC and BPCiObIC to the corrected BIFUbC trajectory
 
 > **STATUS: DRAFT. Not signed off.** Step 1 (BIFUbC) is done and uncommitted. Steps 2-5 wait for answers to the open decisions below.

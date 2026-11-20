@@ -35,7 +35,7 @@ Additional Minimum Required ZEV Sales Percentage for Model Region[passenger,HDVs
 Additional Minimum Required ZEV Sales Percentage for Model Region[freight,LDVs] = 0.7
 Additional Minimum Required ZEV Sales Percentage for Model Region[freight,HDVs] = 0.7
 Additional Minimum Required ZEV Sales Percentage for Model Region[freight,motorbikes] = 0.6
-Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.327
+Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.174
 Boolean Use Non BAU ZEV Qualifying Vehicle Definitions = 1
 Additional LCFS Percentage = 0.2
 Boolean Use Non BAU LCFS Vehicle Types = 1

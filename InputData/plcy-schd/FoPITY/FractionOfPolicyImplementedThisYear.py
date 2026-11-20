@@ -2073,6 +2073,7 @@ PolicyElements = (
   (("bldgs new component fuel shifting","cooling and ventilation","commercial"),
     ("Schedule 1",(2025,0),(2026,0),(2050,1)),
     ("Schedule 2",(2025,0),(2030,0),(2050,1)),
+    ("Schedule 4",(2021,0),(2025,0),(2035,1)),
   ),
   (("bldgs new component fuel shifting","envelope","urban residential"),
     ("Schedule 1",(2025,0),(2026,0),(2050,1)),
